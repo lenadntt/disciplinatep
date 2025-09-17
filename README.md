@@ -4,9 +4,8 @@ Material da disciplina do Professor Nisston - T√≥picos Essenciais para Programa√
 ## TARGET -- TEPP
 -- complete with the target of the class. 
 
-
 ------------------------------------------------------------------------------------------
 ### My Information 
-Name of the student: Helena Trombetta
-Major: Computer Science
-Enrollment: 2025211880176
+- Name of the student: Helena Trombetta
+- Major: Computer Science
+- Enrollment: 2025211880176
